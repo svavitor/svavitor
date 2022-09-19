@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 
 
 -->
+
+My [LeetCode](https://leetcode.com/svavitor/) and [Duolingo](https://duome.eu/svavitor/)
