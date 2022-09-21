@@ -1,3 +1,6 @@
+
+<p align="center">
+
 ### Hi there! 👋
 <!--
 **svavitor/svavitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,3 +48,7 @@ Here are some ideas to get you started:
 -->
 
 My [LeetCode](https://leetcode.com/svavitor/) and [Duolingo](https://duome.eu/svavitor/)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=svavitor)](https://git.io/streak-stats)
+
+</p>
